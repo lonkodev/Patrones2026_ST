@@ -275,7 +275,8 @@ El objetivo es demostrar la transición completa desde la visión funcional (cas
 - No se aceptan entregas por correo, archivos comprimidos ni repositorios privados.
 - El enlace al repositorio debe ser enviado por correo, con **redacción profesional**.
 - No se aceptarán correos tardíos alegando olvido de envío, aun si GitHub muestra la fecha correcta.
-- Todo trabajo enviado fuera del procedimiento o después del viernes recibe **nota mínima automática (1.0)**.
+- Fecha de entrega: Miercoles 27 de mayo de 2026.
+- Video meet Solo si no es entrega individual
 
 ---
 
