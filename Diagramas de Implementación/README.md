@@ -160,7 +160,8 @@ Además, incluye **integración con el ERP hospitalario** y **gestión de acceso
 ---
 
 ### 📌 Diagrama de Casos de Uso
-<img width="684" alt="image" src="https://github.com/user-attachments/assets/fa333664-367c-4b63-901b-5ee38c3a9ddc" />
+<img width="684" height="540" alt="444789047-fa333664-367c-4b63-901b-5ee38c3a9ddc" src="https://github.com/user-attachments/assets/d1c348e0-bfb6-4018-b2ae-b16fc588d445" />
+
 
 # 🏥 Sistema de Bodega de Insumos Médicos
 
@@ -204,8 +205,8 @@ Cada clase tiene un propósito claro, los patrones están aplicados en el lugar 
 ---
 
 ### 📷 Diagrama de Clases
+<img width="960" height="318" alt="444789964-516e0b2d-a6ca-457f-83b6-6acde7d281af" src="https://github.com/user-attachments/assets/45ab96f8-c12e-42cd-b800-736247b0277c" />
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/516e0b2d-a6ca-457f-83b6-6acde7d281af" />
 
 ## 🚀 De la Visión Funcional a la Arquitectura Física — Transición Completa Profesional
 
@@ -224,7 +225,8 @@ Este enfoque permite:
 
 ## 🏗️ Diagrama de Implementación UML — Despliegue Físico con Patrones Aplicados
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/8eb3fe34-229a-44ea-a8f1-076d3b63be84" />
+<img width="960" height="160" alt="444790630-8eb3fe34-229a-44ea-a8f1-076d3b63be84" src="https://github.com/user-attachments/assets/b919edca-1a6f-486d-88b8-2a84ee6ff376" />
+
 
 # 🏥 Sistema Tunomático — Modelado Arquitectónico Profesional
 
