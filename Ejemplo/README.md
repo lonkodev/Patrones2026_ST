@@ -20,7 +20,8 @@ El sistema considera aspectos operacionales críticos en un entorno hospitalario
 ---
 
 ## 🔹 1. Diagrama de Casos de Uso UML
-![image](https://github.com/user-attachments/assets/0d7847bb-b6b0-468a-aecc-8855e2240684)
+<img width="1216" height="961" alt="444632011-0d7847bb-b6b0-468a-aecc-8855e2240684" src="https://github.com/user-attachments/assets/1af2b0f1-46b5-4811-a167-4e0f97279cf7" />
+
 
 
 
@@ -57,7 +58,8 @@ El sistema se comunica con el **Sistema ERP Hospitalario** para sincronizar dato
 
 
 ## 🔹 2. Diagrama de Clases UML con Patrones Aplicados
-![image](https://github.com/user-attachments/assets/ef4a83da-4246-44e8-9b8a-0de62471b0a7)
+<img width="3551" height="1172" alt="444619757-ef4a83da-4246-44e8-9b8a-0de62471b0a7" src="https://github.com/user-attachments/assets/0ef32c13-22b8-4aca-99b8-d022ddcfa93f" />
+
 
 
 ## 🧩 Justificación Arquitectónica y Patrones Aplicados
@@ -112,7 +114,8 @@ Considerando la diversidad de usuarios y dispositivos (bodeguero móvil, supervi
 ---
 
 ## 🔹 3. Diagrama de Implementación UML
-![image](https://github.com/user-attachments/assets/e78fb473-d493-4c4a-b916-c470f34e63e7)
+<img width="2862" height="478" alt="444619988-e78fb473-d493-4c4a-b916-c470f34e63e7" src="https://github.com/user-attachments/assets/6b90e530-cce8-4858-8dbb-f638a0d439ee" />
+
 
 
 ### Despliegue Físico y decisiones técnicas:
