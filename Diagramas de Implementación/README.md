@@ -306,6 +306,7 @@ El objetivo no es solo cumplir, sino **modelar como lo haría un arquitecto seni
 
 ---
 
-[clase 8.pdf](https://github.com/user-attachments/files/20265548/clase.8.pdf)
+[clase 8.pdf]([clase 8.pdf](https://github.com/user-attachments/files/27822072/clase.8.pdf)
+)
 
 [Readme Ejemplo](https://github.com/lonkodev/Patrones2026_ST/blob/main/Ejemplo/README.md)
